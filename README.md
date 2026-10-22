@@ -12,7 +12,6 @@ Strumenti: 🐍 **Python** per raccolta, pulizia, collegamento e analisi dei dat
 | `CapstoneAutorinoPowerBiPDF.pdf` | Le 7 pagine della dashboard esportate in PDF |
 | `CSVCreati/controllo_collegamenti.csv` | Il campione di 62 collegamenti che ho controllato a mano: è il file che legge il notebook |
 | `CapstoneAutorinoExcel.xlsx` | Lo stesso campione in una tabella Excel più leggibile |
-| `VideoProgettoCapstoneDAFrancescoAutorino.mp4` | Il video di presentazione del progetto (pitch di circa 3 minuti) |
 
 ---
 
