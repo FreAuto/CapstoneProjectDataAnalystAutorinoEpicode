@@ -1,5 +1,7 @@
 # 🎬 Il successo nell'audiovisivo 2000-2025: gradimento del pubblico e premi
 
+![Film e serie TV 2000-2025](copertina.png)
+
 Progetto Capstone – Master Data Analyst, Epicode · **Francesco Autorino**
 
 Strumenti: 🐍 **Python** per raccolta, pulizia, collegamento e analisi dei dati · 📊 **Power BI** per la dashboard interattiva
